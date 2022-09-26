@@ -1,0 +1,10 @@
+Account Number: 41109861
+Account Balance: $50
+First Name: kevin
+Last Name: nguyen
+Address: 90 testing lane
+Phone Number: 0998765432
+Email Address: slakrs1531@gmail.com
+Transaction Number 1: Deposited $100
+Transaction Number 2: Deposited $100
+Transaction Number 3: Withdrew $150

@@ -1,0 +1,7 @@
+Account Number: 90285434
+Account Balance: $0
+First Name: kevin
+Last Name: nguyen
+Address: 90 testing lane
+Phone Number: 0987654321
+Email Address: slakrs1531@gmail.com

@@ -1,0 +1,7 @@
+Account Number: 40951046
+Account Balance: $0
+First Name: k
+Last Name: k
+Address: k
+Phone Number: 0430987654
+Email Address: k@gmail.com

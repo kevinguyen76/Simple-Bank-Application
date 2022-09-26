@@ -1,0 +1,9 @@
+Account Number: 55117358
+Account Balance: $100
+First Name: k
+Last Name: k
+Address: k
+Phone Number: 0420987654
+Email Address: slakrs1531@gmail.com
+Transaction Number 1: Deposited $150
+Transaction Number 2: Withdrew $50
